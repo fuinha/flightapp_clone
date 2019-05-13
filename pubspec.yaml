@@ -49,6 +49,10 @@ flutter:
         - asset: assets/fonts/Oxygen-Regular.ttf
         - asset: assets/fonts/Oxygen-Light.ttf
         - asset: assets/fonts/Oxygen-Bold.ttf
+  assets:
+    - assets/images/lasvegas.jpg
+    - assets/images/athens.jpg
+    - assets/images/sydney.jpeg
 
 
   # To add assets to your application, add an assets section, like this:
